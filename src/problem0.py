@@ -206,7 +206,6 @@ def problem0a(n):
     #        Simply try a few examples to convince yourself of this.
     #        ASK FOR HELP if you do not understand this hint.
     # -------------------------------------------------------------------------
-    import math
     x = sum_of_digits(n)
     y = x % 2
     print(x, y)
